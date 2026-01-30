@@ -1,8 +1,6 @@
-trying to get into swe
+fullstack
 
-still in hs, fucking around and finding out
+still in hs
 
-so far i use c++ and python
-
-in Poland (silesia)
+from Poland (silesia)
 
